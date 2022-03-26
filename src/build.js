@@ -20,7 +20,7 @@ function build(opts) {
   });
 
   app.get("/", async (request, reply) => {
-    return { hello: "world" };
+    return { "CSE2021 DRTS Project API": "20BPS1042 Siddharth Suresh" };
   });
 
   app.get(
