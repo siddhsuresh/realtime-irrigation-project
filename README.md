@@ -1,5 +1,5 @@
 # Real Time Distributed Irrigation Project
-## Socket.io Fastify Server
+## Socket.io Fastify Web Server
 ## CSE2021 DRTS J Component 
 ## 20BPS1042 Siddharth Suresh 
 
